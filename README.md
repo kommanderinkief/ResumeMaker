@@ -59,7 +59,7 @@ Create a virtual environment and activate it:
 
 ```bash
 $ python3 -m venv env
-$ source env/bin/activate
+$ source env/bin/activate or s:/0 Git/ResumeMaker/env/Scripts/Activate.ps1
 ```
 
 Install the modules necessary to run this application:
@@ -69,7 +69,7 @@ $ pip install -r requirements.txt
 
 Config OpenAI API key for MacOS or Linux
 ```bash
-$ export OPENAI_API_KEY=<Your OpenAI API key>
+$ set OPENAI_API_KEY=<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>
 ```
 
 Run the application and open link in browser
