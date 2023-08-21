@@ -76,6 +76,7 @@ Run the application and open link in browser
 ```bash
 $ streamlit run main.py
 ```
+-you may need to install streamlit and run 
 
 
 ## Reference
